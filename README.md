@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mayank Pandey.
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning Web Development.
-- 💞️ Amrapali University.
 - 📫 How to reach me : mayankpandey0717@gmail.com
+- 💞️ Amrapali University.
 - 📍 Haldwani, Uttarakhand
 
 <!---
