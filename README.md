@@ -337,3 +337,165 @@ Active contributor exploring open-source projects, improving code quality, learn
 </div>
 
 <!-- ================= END OF PART 2 ================= -->
+<!-- ========================================================= -->
+<!--                     PART 3 / 6                            -->
+<!--      Experience • Achievements • Certifications           -->
+<!-- ========================================================= -->
+
+# Experience
+
+## Software Engineer (Projects & Open Source)
+
+**Independent Developer**  
+**Jan 2024 – Present**
+
+Designing and developing production-ready full-stack applications with a focus on scalable architecture, clean code, AI integrations, and modern web technologies.
+
+### Scope of Work
+
+- Architected and developed end-to-end MERN applications.
+- Built secure authentication using JWT and protected API routes.
+- Designed RESTful APIs following scalable backend practices.
+- Integrated AI capabilities using Google's Gemini API.
+- Developed responsive, mobile-first user interfaces with React & Next.js.
+- Implemented MongoDB and PostgreSQL database schemas.
+- Optimized application performance and API response times.
+- Applied Git workflows and version control best practices.
+- Deployed applications using modern cloud hosting platforms.
+
+### Technologies
+
+`React` `Next.js` `Node.js` `Express.js` `MongoDB` `PostgreSQL`
+`JavaScript` `TypeScript` `JWT` `Git` `Docker` `Linux`
+
+---
+
+## Full Stack Developer
+
+**Personal Engineering Portfolio**
+
+**2023 – Present**
+
+Developing multiple production-grade projects while continuously learning software engineering, cloud technologies, artificial intelligence, backend systems, and scalable architectures.
+
+### Focus Areas
+
+- Full Stack Product Development
+- AI-enabled Applications
+- Backend Engineering
+- API Development
+- Database Design
+- Open Source Contributions
+- Cloud Learning
+- System Design Fundamentals
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| 🏆 Engineering Portfolio | Built multiple production-ready full-stack applications |
+| 🤖 AI Development | Integrated Generative AI into real-world applications |
+| 🚀 Full Stack Development | Designed scalable MERN architecture projects |
+| 🌐 Portfolio Website | Built and deployed a modern developer portfolio |
+| 📦 REST API Engineering | Developed secure authentication & scalable APIs |
+| 💻 Open Source Journey | Continuously contributing and improving GitHub profile |
+| 📚 Continuous Learning | Regularly exploring AI, Cloud, DevOps & System Design |
+| ⚡ Modern Engineering | Focused on clean architecture and maintainable code |
+
+</div>
+
+---
+
+# Certifications
+
+## Amazon Web Services (AWS)
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(In%20Progress)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-Learning%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+## Oracle
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Oracle-Database%20Fundamentals-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-Java%20Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
+
+---
+
+## Cisco
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</p>
+
+---
+
+## NPTEL
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/NPTEL-Programming-5E35B1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Computer%20Science-673AB7?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Professional Development
+
+| Category | Status |
+|-----------|--------|
+| Software Engineering | ✔ Active |
+| Artificial Intelligence | ✔ Active |
+| Cloud Computing | ✔ Learning |
+| System Design | ✔ Learning |
+| Backend Engineering | ✔ Active |
+| DevOps | ✔ Learning |
+| Open Source | ✔ Active |
+
+---
+
+<div align="center">
+
+### Engineering Principles
+
+| Principle | Description |
+|-----------|-------------|
+| Clean Code | Writing maintainable and readable software |
+| Scalability | Designing applications that grow efficiently |
+| Performance | Optimizing frontend and backend systems |
+| Security | Authentication, authorization, and secure APIs |
+| Collaboration | Git workflows and open-source contributions |
+| Continuous Learning | Constantly improving engineering skills |
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Build software that solves real problems, scales gracefully, and leaves the codebase better than you found it."**
+
+</div>
+
+<!-- ================= END OF PART 3 ================= -->
+```
