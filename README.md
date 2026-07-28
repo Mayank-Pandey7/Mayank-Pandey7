@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Building+Scalable+Products;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software%20Engineer%20+Engineer;Full+Stack+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Building+Scalable+Products;Always+Learning+Something+New"/>
 
 <br/><br/>
 
