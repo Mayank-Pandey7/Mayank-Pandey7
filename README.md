@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:6D28D9,70:7C3AED,100:312E81&text=Mayank%20Pandey&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:6D28D9,70:7C3AED,100:312E81&text=Mayank%20Pandey&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software%20Engineer%20+Engineer;Full+Stack+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Building+Scalable+Products;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Building+Scalable+Products;Always+Learning+Something+New"/>
 
 <br/><br/>
 
