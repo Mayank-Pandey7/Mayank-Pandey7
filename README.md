@@ -35,11 +35,6 @@
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6D28D9)
-
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=4F46E5&label=Followers)
-
-![](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=7C3AED&label=Stars)
 
 </div>
 
