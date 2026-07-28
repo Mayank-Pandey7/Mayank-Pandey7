@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:6D28D9,70:7C3AED,100:312E81&text=Mayank%20Pandey&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:6D28D9,70:7C3AED,100:312E81&text=Mayank%20Pandey&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
