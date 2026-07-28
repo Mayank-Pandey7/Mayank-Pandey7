@@ -18,19 +18,19 @@
 
 <img src="https://img.shields.io/badge/Location-Uttarakhand,%20India-312E81?style=for-the-badge"/>
 
-<a href="https://puang.in">
+<a href="https://mynk.is-a.dev">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/mynkdev/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mayankpanedey0717@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Mayank-Pandey7">
 <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
