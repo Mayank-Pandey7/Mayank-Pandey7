@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Uttarakhand%20Technical%20University-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full20%Stack%20Engineer-Learning-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Engineer-Learning-4338CA?style=for-the-badge"/>
 
 <br/><br/>
 
