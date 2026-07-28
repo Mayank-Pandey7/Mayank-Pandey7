@@ -470,7 +470,7 @@ Developing multiple production-grade projects while continuously learning softwa
 | System Design | ✔ Learning |
 | Backend Engineering | ✔ Active |
 | DevOps | ✔ Learning |
-| Open Source | ✔ Active |
+
 
 ---
 
@@ -497,5 +497,4 @@ Developing multiple production-grade projects while continuously learning softwa
 
 </div>
 
-<!-- ================= END OF PART 3 ================= -->
-```
+
