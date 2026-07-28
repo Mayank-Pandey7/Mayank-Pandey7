@@ -150,3 +150,211 @@ I enjoy transforming ideas into reliable digital products while continuously imp
 </div>
 
 <!-- ================= END OF PART 1 ================= -->
+
+<!-- ========================================================= -->
+<!--                     PART 2 / 6                            -->
+<!--          AI / ML Expertise • Featured Projects            -->
+<!-- ========================================================= -->
+
+# AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:-------|:-----------:|:--------|
+| Large Language Models | ⭐⭐⭐⭐☆ | Building AI-powered applications using Gemini APIs and prompt engineering |
+| Generative AI | ⭐⭐⭐⭐☆ | AI assistants, conversational interfaces, workflow automation |
+| AI Integration | ⭐⭐⭐⭐☆ | Integrating LLMs into full-stack web applications |
+| Prompt Engineering | ⭐⭐⭐⭐☆ | Structured prompts, context optimization, output formatting |
+| REST API Integration | ⭐⭐⭐⭐⭐ | Designing secure and scalable API-driven AI services |
+| Full Stack AI Products | ⭐⭐⭐⭐☆ | MERN + AI applications with authentication and database integration |
+| Backend Engineering | ⭐⭐⭐⭐⭐ | Express.js, authentication, middleware, scalable APIs |
+| Database Design | ⭐⭐⭐⭐☆ | MongoDB, PostgreSQL, relational & NoSQL architecture |
+| Software Architecture | ⭐⭐⭐⭐☆ | Modular, maintainable, production-ready application design |
+| Cloud Fundamentals | ⭐⭐⭐☆☆ | AWS fundamentals, deployment workflows, DevOps learning |
+
+</div>
+
+---
+
+# Featured Projects
+
+<details open>
+<summary>
+
+## SocialAI — AI Powered Social Media Platform
+
+</summary>
+
+### Overview
+
+SocialAI is a modern full-stack social media platform enhanced with AI capabilities. It focuses on secure authentication, scalable APIs, responsive UI, and intelligent user interactions.
+
+| Category | Details |
+|-----------|---------|
+| Stack | React • Node.js • Express • MongoDB • JWT |
+| Architecture | MERN |
+| Performance | Optimized API responses & efficient database queries |
+| Security | JWT Authentication • Password Encryption |
+| Impact | AI-enhanced social networking experience |
+| Repository | https://github.com/Mayank-Pandey7 |
+
+### Engineering Highlights
+
+- Secure authentication system
+- RESTful API architecture
+- Modular backend
+- Responsive React UI
+- MongoDB data modeling
+- AI integration ready
+- Clean project structure
+- Scalable design principles
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## BlackTrack — Blockchain Expense & Transaction Platform
+
+</summary>
+
+### Overview
+
+BlackTrack combines blockchain concepts with modern web technologies to deliver secure financial tracking and transparent transaction management.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Next.js • Express • PostgreSQL • Ethers.js |
+| Scale | Full Stack |
+| Performance | Optimized SQL queries |
+| Security | Authentication & blockchain validation |
+| Impact | Secure financial workflow management |
+| Repository | https://github.com/Mayank-Pandey7 |
+
+### Engineering Highlights
+
+- Blockchain integration
+- PostgreSQL relational database
+- API-first backend
+- Modern Next.js frontend
+- Secure transaction flow
+- Modular architecture
+- Clean engineering practices
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## AI Calendar Assistant
+
+</summary>
+
+### Overview
+
+A productivity-focused calendar application designed with a clean UI and intelligent scheduling workflow.
+
+| Category | Details |
+|-----------|---------|
+| Stack | React • JavaScript • CSS |
+| Scale | Frontend Product |
+| Performance | Lightweight architecture |
+| Security | Client-side validation |
+| Impact | Productivity enhancement |
+| Repository | https://github.com/Mayank-Pandey7 |
+
+### Engineering Highlights
+
+- Modern UI
+- Responsive design
+- Calendar workflow
+- Component-based architecture
+- Reusable codebase
+- Optimized rendering
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## Portfolio Website
+
+</summary>
+
+### Overview
+
+A premium developer portfolio showcasing projects, engineering expertise, technical skills, and professional experience.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Next.js • React • Tailwind CSS |
+| Scale | Personal Brand |
+| Performance | Optimized Lighthouse score |
+| Security | Best deployment practices |
+| Impact | Professional developer branding |
+| Live | https://mynk.is-a.dev |
+
+### Engineering Highlights
+
+- Responsive UI
+- Modern animations
+- SEO optimized
+- Fast page loading
+- Clean architecture
+- Recruiter-friendly design
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## Open Source Contributions
+
+</summary>
+
+### Overview
+
+Active contributor exploring open-source projects, improving code quality, learning engineering best practices, and collaborating with the developer community.
+
+| Category | Details |
+|-----------|---------|
+| Focus | Web Development • AI • JavaScript |
+| Collaboration | GitHub |
+| Workflow | Git • Pull Requests • Reviews |
+| Repository | https://github.com/Mayank-Pandey7 |
+
+### Engineering Highlights
+
+- Git workflow
+- Code reviews
+- Documentation
+- Bug fixes
+- Feature implementation
+- Continuous learning
+
+</details>
+
+---
+
+<div align="center">
+
+## Engineering Philosophy
+
+*"Great software is built through clean architecture, thoughtful engineering, continuous learning, and relentless attention to detail."*
+
+</div>
+
+<!-- ================= END OF PART 2 ================= -->
