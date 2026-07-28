@@ -11,8 +11,7 @@
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Uttarakhand%20Technical%20University-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Engineer-Learning-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full20%Stack%20Engineer-Learning-4338CA?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -59,9 +58,7 @@ I enjoy transforming ideas into reliable digital products while continuously imp
 ### Engineering Interests
 
 - Full Stack Product Engineering
-- AI & Machine Learning
 - MERN Stack Development
-- Distributed Systems
 - REST APIs
 - Cloud Technologies
 - Backend Engineering
@@ -74,7 +71,6 @@ I enjoy transforming ideas into reliable digital products while continuously imp
 - Software Engineer
 - Full Stack Developer
 - Backend Engineer
-- AI Engineer
 - Product Engineer
 - Open Source Collaboration
 - Internship Opportunities
