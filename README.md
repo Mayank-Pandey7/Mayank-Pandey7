@@ -156,27 +156,6 @@ I enjoy transforming ideas into reliable digital products while continuously imp
 <!--          AI / ML Expertise • Featured Projects            -->
 <!-- ========================================================= -->
 
-# AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:-------|:-----------:|:--------|
-| Large Language Models | ⭐⭐⭐⭐☆ | Building AI-powered applications using Gemini APIs and prompt engineering |
-| Generative AI | ⭐⭐⭐⭐☆ | AI assistants, conversational interfaces, workflow automation |
-| AI Integration | ⭐⭐⭐⭐☆ | Integrating LLMs into full-stack web applications |
-| Prompt Engineering | ⭐⭐⭐⭐☆ | Structured prompts, context optimization, output formatting |
-| REST API Integration | ⭐⭐⭐⭐⭐ | Designing secure and scalable API-driven AI services |
-| Full Stack AI Products | ⭐⭐⭐⭐☆ | MERN + AI applications with authentication and database integration |
-| Backend Engineering | ⭐⭐⭐⭐⭐ | Express.js, authentication, middleware, scalable APIs |
-| Database Design | ⭐⭐⭐⭐☆ | MongoDB, PostgreSQL, relational & NoSQL architecture |
-| Software Architecture | ⭐⭐⭐⭐☆ | Modular, maintainable, production-ready application design |
-| Cloud Fundamentals | ⭐⭐⭐☆☆ | AWS fundamentals, deployment workflows, DevOps learning |
-
-</div>
-
----
-
 # Featured Projects
 
 <details open>
