@@ -284,47 +284,7 @@ A premium developer portfolio showcasing projects, engineering expertise, techni
 - Clean architecture
 - Recruiter-friendly design
 
-</details>
-
----
-
-<details>
-
-<summary>
 
 
-</summary>
-
-### Overview
-
-Active contributor exploring open-source projects, improving code quality, learning engineering best practices, and collaborating with the developer community.
-
-| Category | Details |
-|-----------|---------|
-| Focus | Web Development • AI • JavaScript |
-| Collaboration | GitHub |
-| Workflow | Git • Pull Requests • Reviews |
-| Repository | https://github.com/Mayank-Pandey7 |
-
-### Engineering Highlights
-
-- Git workflow
-- Code reviews
-- Documentation
-- Bug fixes
-- Feature implementation
-- Continuous learning
-
-</details>
-
----
-
-<div align="center">
-
-## Engineering Philosophy
-
-*"Great software is built through clean architecture, thoughtful engineering, continuous learning, and relentless attention to detail."*
-
-</div>
 
 
