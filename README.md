@@ -137,13 +137,6 @@ I enjoy transforming ideas into reliable digital products while continuously imp
 
 </div>
 
-<!-- ================= END OF PART 1 ================= -->
-
-<!-- ========================================================= -->
-<!--                     PART 2 / 6                            -->
-<!--          AI / ML Expertise • Featured Projects            -->
-<!-- ========================================================= -->
-
 # Featured Projects
 
 <details open>
