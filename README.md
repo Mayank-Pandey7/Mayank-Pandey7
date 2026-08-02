@@ -55,11 +55,8 @@ I enjoy transforming ideas into reliable digital products while continuously imp
 
 - Full Stack Product Engineering
 - MERN Stack Development
-- REST APIs
-- Cloud Technologies
 - Backend Engineering
 - System Design
-- DevOps Practices
 
 ### Open To
 
