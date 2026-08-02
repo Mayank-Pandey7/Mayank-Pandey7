@@ -59,7 +59,6 @@ I enjoy transforming ideas into reliable digital products while continuously imp
 - Cloud Technologies
 - Backend Engineering
 - System Design
-- Open Source
 - DevOps Practices
 
 ### Open To
@@ -67,10 +66,7 @@ I enjoy transforming ideas into reliable digital products while continuously imp
 - Software Engineer
 - Full Stack Developer
 - Backend Engineer
-- Product Engineer
-- Open Source Collaboration
 - Internship Opportunities
-- Graduate Software Roles
 
 ---
 
@@ -120,10 +116,10 @@ I enjoy transforming ideas into reliable digital products while continuously imp
 
 | Category | Technologies |
 |-----------|--------------|
-| Languages | JavaScript, TypeScript, Python, Java, C++, HTML5, CSS3 |
-| Frontend | React.js, Next.js, Redux, Tailwind CSS |
+| Languages | JavaScript, TypeScript, HTML5, CSS3 |
+| Frontend | React.js, Next.js, Tailwind CSS |
 | Backend | Node.js, Express.js |
-| Database | MongoDB, PostgreSQL, MySQL |
+| Database | MongoDB, MySQL |
 | Authentication | JWT, Session Authentication |
 | APIs | REST API Development |
 | Version Control | Git & GitHub |
