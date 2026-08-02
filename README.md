@@ -178,41 +178,6 @@ SocialAI is a modern full-stack social media platform enhanced with AI capabilit
 
 <summary>
 
-## BlackTrack — Blockchain Expense & Transaction Platform
-
-</summary>
-
-### Overview
-
-BlackTrack combines blockchain concepts with modern web technologies to deliver secure financial tracking and transparent transaction management.
-
-| Category | Details |
-|-----------|---------|
-| Stack | Next.js • Express • PostgreSQL • Ethers.js |
-| Scale | Full Stack |
-| Performance | Optimized SQL queries |
-| Security | Authentication & blockchain validation |
-| Impact | Secure financial workflow management |
-| Repository | https://github.com/Mayank-Pandey7 |
-
-### Engineering Highlights
-
-- Blockchain integration
-- PostgreSQL relational database
-- API-first backend
-- Modern Next.js frontend
-- Secure transaction flow
-- Modular architecture
-- Clean engineering practices
-
-</details>
-
----
-
-<details>
-
-<summary>
-
 ## AI Calendar Assistant
 
 </summary>
