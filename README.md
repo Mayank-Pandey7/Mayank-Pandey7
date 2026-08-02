@@ -292,7 +292,6 @@ A premium developer portfolio showcasing projects, engineering expertise, techni
 
 <summary>
 
-## Open Source Contributions
 
 </summary>
 
