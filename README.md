@@ -1,44 +1,5 @@
 
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:6D28D9,70:7C3AED,100:312E81&text=Mayank%20Pandey&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Building+Scalable+Products;Always+Learning+Something+New"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Uttarakhand%20Technical%20University-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Engineer-Learning-4338CA?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Location-Uttarakhand,%20India-312E81?style=for-the-badge"/>
-
-<a href="https://mynk.is-a.dev">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mynkdev/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mayankpanedey0717@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Mayank-Pandey7">
-<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-
-</div>
-
 ---
 
 # About Me
