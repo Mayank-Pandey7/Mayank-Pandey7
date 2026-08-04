@@ -54,27 +54,6 @@ I enjoy transforming ideas into reliable digital products while continuously imp
 
 </p>
 
----
-
-## Core Engineering Skills
-
-| Category | Technologies |
-|-----------|--------------|
-| Languages | JavaScript, TypeScript, HTML5, CSS3 |
-| Frontend | React.js, Next.js, Tailwind CSS |
-| Backend | Node.js, Express.js |
-| Database | MongoDB, MySQL |
-| Authentication | JWT, Session Authentication |
-| APIs | REST API Development |
-| Version Control | Git & GitHub |
-| Deployment | Vercel, Render |
-| DevOps | Docker, Linux |
-| Cloud | AWS (Learning) |
-| Design | Figma |
-| AI | Gemini API, LLM Integrations |
-
----
-
 <div align="center">
 
 ### *Building scalable software with clean architecture, modern technologies, and an engineering-first mindset.*
