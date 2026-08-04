@@ -12,20 +12,6 @@ Alongside product engineering, I actively explore **Artificial Intelligence, Mac
 
 I enjoy transforming ideas into reliable digital products while continuously improving engineering practices, code quality, system design, and developer experience.
 
-### Engineering Interests
-
-- Full Stack Product Engineering
-- MERN Stack Development
-- Backend Engineering
-- System Design
-
-### Open To
-
-- Software Engineer
-- Full Stack Developer
-- Backend Engineer
-- Internship Opportunities
-
 ---
 
 # Tech Stack
